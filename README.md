@@ -13,3 +13,4 @@
 | 27/05/2025 | Programação Dinâmica 1D: Brick Wall Patterns <br> Rabbits and Recurrence Relations <br> Mortal Fibonacci Rabbits | [Nota de Aula](Programação_Dinâmica_1D.pdf) |
 | 03/06/2025 | Programação 2D: <br> Maximum Path Sum <br> Minimização do Produto Energia × Tempo (EDP) <br> Maior Subsequência Comum | [Nota de Aula](Programação_Dinâmica_2D.pdf) |
 | 10/06/2025 | Programação Dinâmica 2D <br> Problema da Mochila <br> SubsetSum | [Nota de Aula](Programação_Dinâmica_2D__Mochila___SubsetSum_.pdf) | 
+| 17/06/2025 | Busca em Largura | [Nota de Aula](Grafos.pdf) |
