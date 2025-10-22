@@ -15,5 +15,7 @@
 | 10/06/2025 | Programação Dinâmica 2D <br> Problema da Mochila <br> SubsetSum | [Nota de Aula](Programação_Dinâmica_2D__Mochila___SubsetSum_.pdf) | 
 | 17/06/2025 | Busca em Largura | [Nota de Aula](Grafos.pdf) |
 | 24/06/2025 | Fila de Prioridade | [Nota de Aula](Fila_de_Prioridades.pdf) |
+| 07/10/2025 | Programação Dinâmica em Digitos | [Nota de Aula](Programação_Dinâmica_em_Digitos.pdf) |
+| 14/10/2025 | Algoritmo do Crivo | [Nota de Aula](Algoritmo_do_Crivo.pdf) |
 | 21/10/2025 | Meet-in-the-Middle | [Nota de Aula](Meet_in_the_middle.pdf) |
 
